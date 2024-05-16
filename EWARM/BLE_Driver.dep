@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>268614951</fileChecksum>
+    <configuration>
+        <name>BLE_Driver</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\third_party\Core_Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_cortex.c</file>
+            <file>$PROJ_DIR$\..\third_party\Core_Include\mpu_armv7.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_cortex.h</file>
+            <file>$PROJ_DIR$\..\third_party\Core_Include\core_cm0plus.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_def.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32_hal_legacy.h</file>
+            <file>$PROJ_DIR$\..\third_party\Core_Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.o</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_exti.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_gpio_ex.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart_ex.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_gpio.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash_ex.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_dma.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_dmamux.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_dma.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_exti.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_rcc.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr_ex.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_gpio.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Exe\BLE_Driver.out</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc_ex.h</file>
+            <file>$PROJ_DIR$\..\main.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash_ex.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc_ex.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr_ex.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart_ex.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_rcc.h</file>
+            <file>$PROJ_DIR$\..\main.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc.c</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\BLE_Driver\List\BLE_Driver.map</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr.c</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_cortex.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_exti.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\hardware\stm32g0xx_it.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma_ex.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\Application\EWARM\startup_stm32g0b1xx.o.rsp</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\main.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash.o</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\esp_multiple_connection_project\ble\app\ble_app.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\hardware\system_stm32g0xx.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_gpio.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash_ex.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\hardware\stm32g0xx_hal_msp.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\esp_multiple_connection_project\queue\queue.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\hardware\hardware_init.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart_ex.o</file>
+            <file>$PROJ_DIR$\stm32g0b1xx_flash.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr_ex.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_rcc.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Exe\BLE_Driver.bin</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\Application\EWARM\startup_stm32g0b1xx.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc_ex.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\esp_multiple_connection_project\ble\api\ble_api.o</file>
+            <file>$PROJ_DIR$\BLE_Driver\Obj\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_dma.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\..\hardware\stm32g0xx_hal_conf.h</file>
+            <file>$PROJ_DIR$\..\hardware\stm32g0xx_it.h</file>
+            <file>$PROJ_DIR$\..\third_party\Core_Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\hardware\stm32g0xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\third_party\CMSIS\stm32g0xx.h</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma_ex.c</file>
+            <file>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma_ex.h</file>
+            <file>$PROJ_DIR$\..\hardware\system_stm32g0xx.c</file>
+            <file>$PROJ_DIR$\..\hardware\hardware_init.h</file>
+            <file>$PROJ_DIR$\..\third_party\CMSIS\system_stm32g0xx.h</file>
+            <file>$PROJ_DIR$\..\hardware\stm32g0xx_it.c</file>
+            <file>$PROJ_DIR$\..\third_party\CMSIS\stm32g0b1xx.h</file>
+            <file>$PROJ_DIR$\startup_stm32g0b1xx.s</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\queue\queue.c</file>
+            <file>$PROJ_DIR$\..\hardware\hardware_init.c</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\ble\api\ble_api.c</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\ble\app\ble_app.h</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\ble\api\ble_api.h</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\ble\app\ble_app.c</file>
+            <file>$PROJ_DIR$\..\esp_multiple_connection_project\queue\queue.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 27 42</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_cortex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_uart_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_flash_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_ll_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\BLE_Driver\Exe\BLE_Driver.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 55 56 41 60 73 81 83 62 68 71 67 47 63 58 52 44 12 48 45 59 66 65 46 75 79 82 77 72 84 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 74 51 54 49 53 69 61 50 103 102 105 94 86 39 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\BLE_Driver\Exe\BLE_Driver.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hardware\stm32g0xx_hal_msp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 74 51 54 49 53 69 61 50 103 102 105 94 86 39 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\third_party\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hardware\system_stm32g0xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hardware\stm32g0xx_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 74 51 54 49 53 69 61 50 103 102 105 94 86 87 39 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_stm32g0b1xx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 57</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\esp_multiple_connection_project\queue\queue.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 49 53 69 61 50 105</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hardware\hardware_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 74 51 54 69 61 50 94 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\esp_multiple_connection_project\ble\api\ble_api.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 49 53 69 61 50 103 105</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\esp_multiple_connection_project\ble\app\ble_app.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85 64 78 70 74 51 54 49 53 69 61 50 103 102 105 94 86 97 90 95 88 0 10 7 5 9 3 6 8 11 92 23 37 31 26 15 34 35 33 28 30 36 20 21 38</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

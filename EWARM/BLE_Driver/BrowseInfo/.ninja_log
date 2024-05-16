@@ -1,0 +1,234 @@
+# ninja log v5
+52	246	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	b17459ec5ae99f7a
+30	260	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	248c001a65d11a02
+23	267	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/main.xcl	e2219a62c13cc731
+26	273	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.xcl	2bd8a29ae43e1a02
+44	304	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	854716bd381ccba1
+37	344	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.xcl	b8a668d95a25117c
+251	351	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	9493f0e59fddfa1a
+264	357	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	872693abb90b3ea8
+1	367	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/stm32g0xx_it.xcl	839e5c29a30902a0
+35	374	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	56ed4e084dd70890
+309	397	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	6913a60fdc0d0b2d
+27	405	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	45bf4a991a34618c
+271	413	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	ebd7b912184f86d4
+278	420	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	28e490a4accc197d
+348	436	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	3b309ba88073bf97
+33	443	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	cf01689cec2f8f76
+355	449	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	839ffaa1f2c9b75c
+361	456	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	e14c8a398c96ac54
+371	462	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	cc8c536fb3603ee5
+402	482	7368894140000000	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	2158b6d693b0a6f2
+418	939	7368894147573388	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.pbi	43aa0e5485693c4c
+440	945	7368894147628521	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.pbi	8c1d625613ecfc6a
+486	949	7368894147628521	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	b247f324dcedbac2
+448	954	7368894147663394	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	68d32d8e5095c483
+410	959	7368894147675038	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	6c93d0bc51a03f29
+467	964	7368894147698883	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	38e4173803c558a6
+378	969	7368894147801393	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/main.pbi	cc5c804f8cbff6f1
+460	974	7368894147812258	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	21bc77903222085f
+454	979	7368894147953102	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	db193de6ccebf3f7
+424	993	7368894148092064	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Application/User/Core/stm32g0xx_it.pbi	62f485e36a129c95
+971	1002	7368894148210829	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	3ce632a874af6292
+981	1033	7368894148305961	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	8062fed63aa815b
+942	1176	7368894149944937	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	48430e3aab404513
+962	1198	7368894150154493	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	3aafb88ba9f89e68
+952	1201	7368894150184388	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	ea8dfcb614eedaa8
+957	1207	7368894150259514	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	8dcb6ed799d2f5ad
+966	1224	7368894150424530	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	c6c6c70da7fbd141
+947	1228	7368894150474381	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	ad7896d86721cb32
+995	1240	7368894150581233	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	31f3dd4ba7e9684e
+1036	1282	7368894151018288	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part0.pbi	459d8c011edbf864
+1005	1293	7368894151128351	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	61aa6e511e9e9702
+976	1342	7368894151610472	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	484445d5db7e75b4
+1209	1399	7368894152185783	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part2.pbi	6032f29aef24b2ba
+1242	1433	7368894152531027	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part3.pbi	772b29b4fb7bceee
+1344	1456	7368894152758643	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part4.pbi	add8622704e36fdc
+1458	1636	7368894154556567	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	e0a431433359eeb0
+1639	2521	7368894163208880	D:/main_desktop/project_files/st_files/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	f537fb60df4e9d1f
+17	148	7374165760000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	3016cd39300f16d7
+12	157	7374165760000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.xcl	d3a9d1915f31cb9e
+28	167	7374165760000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/tcp/app/tcp_app.xcl	78c5dac85076b0da
+0	211	7374165760000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.xcl	b2523632c3a10a44
+20	220	7374165760000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.xcl	2f8ea38e7c9b42e8
+14	238	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.xcl	e47b4b362f45390b
+6	249	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.xcl	52b884a27bb2d9a4
+46	259	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	54a6025a682a3665
+25	268	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/tcp/api/tcp_api.xcl	dc8682c443746a46
+163	278	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	d0001f52a7499bd5
+8	287	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.xcl	f8b382c2f12e18a9
+154	298	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	d6e3e022ce602c92
+173	308	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	74a2b4925772500b
+226	317	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	be0d65610ba464e
+244	343	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	f9ab9eb542458b77
+256	365	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	896cc53e266b291a
+217	376	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.xcl	49076088d384feeb
+295	397	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	f640cd281d3b9ae5
+315	406	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	de92676657c42076
+265	415	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	e94067d7f0b049f8
+275	424	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	2894748e29139a61
+382	432	7374165771919057	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.pbi	e6292615a6094aaf
+373	436	7374165772016028	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/tcp/api/tcp_api.pbi	9b80b40cbf36a174
+323	441	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	888af42498eed97d
+305	450	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	6edd29de68e378af
+350	458	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	67e4255ee96e7cd8
+404	467	7374165772169128	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.pbi	535d2e687988c5c4
+285	471	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	b6a72a42e7afa4f4
+413	494	7374165770000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.xcl	62159b1e9b392894
+421	670	7374165774468734	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.pbi	c733f610184f545
+430	684	7374165774608818	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/tcp/app/tcp_app.pbi	49565e4441f180aa
+447	689	7374165774618782	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.pbi	ed900efb44fb878d
+438	694	7374165774701178	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.pbi	5f41eca591d537db
+469	732	7374165775084961	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.pbi	40158778379693e
+479	737	7374165775094929	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	169ba99b3e5af08e
+455	742	7374165775179718	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.pbi	3637682369bb574
+465	746	7374165775209624	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	b3e6f15b8479d3c3
+500	769	7374165775468727	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	cfc029d6ccb45f4a
+434	791	7374165775688231	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	fbe0b296816643b9
+691	930	7374165777072029	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	7aa4bff1b1cb5158
+686	947	7374165777247700	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	dd4e45f6b024ac94
+696	956	7374165777329544	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	a0bb2665c7985534
+739	969	7374165777467245	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	e4e7e2a0880fd1c8
+672	986	7374165777620282	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	56e458a41624b4b
+958	993	7374165777706898	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	8aba8a71bb96ac62
+734	1003	7374165777787184	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	9b348f1749f1469b
+972	1008	7374165777842982	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	5544f987e0e0964
+749	1018	7374165777942483	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	401957a3d91424f9
+744	1021	7374165777982379	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	b2a8665902c0e295
+793	1039	7374165778172015	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	7304033c2c0b92aa
+771	1062	7374165778401836	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	dc2f4c24a3043de7
+933	1096	7374165778741697	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part0.pbi	81757b2f894e98dc
+1064	1231	7374165780093617	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part4.pbi	2e4007fa1191dd20
+988	1242	7374165780208287	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part2.pbi	d0b11e32d2f6af6c
+995	1268	7374165780467098	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	d5db2292b40ea975
+1022	1278	7374165780567009	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part3.pbi	cab6632f954452a9
+950	1280	7374165780567009	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.pbi	da48db85bd51d976
+1281	1345	7374165781245178	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part5.pbi	2fadbe878a53ac64
+1346	1563	7374165783409063	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	6e958346cbce2b9f
+1565	2374	7374165791282834	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	faee0d7bde0b3318
+3	208	7375868593853594	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.pbi	da48db85bd51d976
+210	295	7375868594737767	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part5.pbi	2fadbe878a53ac64
+297	559	7375868597373202	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	6e958346cbce2b9f
+562	1474	7375868606287946	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	faee0d7bde0b3318
+6	186	7375868659035834	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.pbi	da48db85bd51d976
+1	190	7375868659075710	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.pbi	5f41eca591d537db
+4	194	7375868659120630	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.pbi	3637682369bb574
+188	255	7375868659739215	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part5.pbi	2fadbe878a53ac64
+196	440	7375868661585618	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	d5db2292b40ea975
+443	653	7375868663704674	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	6e958346cbce2b9f
+656	1436	7375868671350798	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	faee0d7bde0b3318
+2	129	7375868856036490	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part4.pbi	cfe3daaa6fc92798
+6	185	7375868856591831	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part0.pbi	6c344ef22b118fb9
+11	277	7375868857513223	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	d5e4a668f4311674
+7	285	7375868857598048	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part2.pbi	92dad160b012ea42
+4	288	7375868857608017	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part3.pbi	4b831320db8d9ce7
+291	472	7375868859468760	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	507251ee5dd9e95
+475	1268	7375868867192476	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	faee0d7bde0b3318
+30	124	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.xcl	b6c4d6bdab104292
+1	147	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.xcl	1f3ed3ee670d8d80
+33	161	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.xcl	d320c0471f701ccf
+25	174	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.xcl	f41a56dd6dee4f46
+51	182	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	d7b9334da5c94aa1
+38	190	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.xcl	e5f5b3e2a50c502c
+35	198	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.xcl	41749c31a3b55a0e
+42	207	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	5f7f4308654142f2
+128	228	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	9269be0fc6ee4ce4
+45	267	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	cf31cf8d57beb766
+28	274	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.xcl	b1303629c3748a63
+211	315	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	fa2fb795a9611fe1
+233	329	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	331329f88d964e0d
+188	337	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	a17d57c5aba6b751
+152	345	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	5625b3fe8a79ec2d
+195	354	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	7c28570ebfde7753
+166	363	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	eec785467c0c15ab
+180	372	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	e1adbdb4d40c4daf
+280	381	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.xcl	949cda3cbee50078
+203	389	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	368171a77b118839
+343	398	7375869173735108	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.pbi	e6292615a6094aaf
+272	403	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	a2d1aa270e789849
+335	413	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	a9b2d5366bf0c1ad
+351	430	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	6d6fd38995d0a174
+401	439	7375869174329565	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.pbi	535d2e687988c5c4
+369	448	7375869170000000	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	f48b929dc3d8ecc8
+319	544	7375869175447076	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.pbi	c733f610184f545
+360	600	7375869176006661	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	fbe0b296816643b9
+379	605	7375869176021691	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.pbi	40158778379693e
+387	620	7375869176205603	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.pbi	ed900efb44fb878d
+410	652	7375869176518772	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.pbi	5f41eca591d537db
+396	660	7375869176608650	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.pbi	3637682369bb574
+441	665	7375869176633631	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	b3e6f15b8479d3c3
+419	670	7375869176653591	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	169ba99b3e5af08e
+436	674	7375869176730481	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	cfc029d6ccb45f4a
+672	694	7375869176945634	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	8aba8a71bb96ac62
+455	704	7375869177037736	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	56e458a41624b4b
+546	777	7375869177783145	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	dd4e45f6b024ac94
+779	802	7375869178029021	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	5544f987e0e0964
+622	850	7375869178497305	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	e4e7e2a0880fd1c8
+602	854	7375869178507272	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	401957a3d91424f9
+607	856	7375869178562297	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	9b348f1749f1469b
+662	901	7375869179019088	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	a0bb2665c7985534
+677	903	7375869179029067	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	7304033c2c0b92aa
+654	905	7375869179029067	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	b2a8665902c0e295
+707	938	7375869179398524	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/main.pbi	da48db85bd51d976
+696	954	7375869179548466	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	dc2f4c24a3043de7
+667	993	7375869179938306	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	7aa4bff1b1cb5158
+852	1039	7375869180411271	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part0.pbi	6c344ef22b118fb9
+805	1063	7375869180642929	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	d5e4a668f4311674
+939	1065	7375869180652898	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part4.pbi	cfe3daaa6fc92798
+956	1196	7375869181986561	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part3.pbi	4b831320db8d9ce7
+995	1220	7375869182228973	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part2.pbi	92dad160b012ea42
+1223	1402	7375869184038990	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbd	507251ee5dd9e95
+1404	2182	7375869191620414	C:/Users/yayla/Desktop/BLE_Driver/EWARM/BLE_Driver/BrowseInfo/BLE_Driver.pbw	faee0d7bde0b3318
+67	214	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.xcl	5efa5aebada73193
+64	222	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.xcl	442109a77763b049
+60	233	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.xcl	8a2d07fb3cff547b
+77	241	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	a40c9364c2b4ca34
+56	251	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.xcl	af027f9ce45c9e06
+74	260	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.xcl	7adb44c2d09c7a9c
+85	268	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	2697a9a4fed19a2f
+69	276	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	610488c33a7eb825
+62	284	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.xcl	8a8bd6f0a1fd4079
+71	292	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.xcl	d04ad0d564589515
+230	365	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	8675c4b76337c670
+266	374	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	5d4a6cc7ecdf3fa7
+220	383	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	ee6f04764eb97a3a
+249	391	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	849fb431434ced64
+239	400	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	8393932d0899188f
+258	408	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	d972ca00b79ebd99
+273	418	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	5e09f6ce4ade099c
+290	426	7375874760000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	7a5fbea6c192252c
+389	435	7375874769850288	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/api/ble_api.pbi	5a629100a62525e2
+298	439	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	59123df887aa165e
+371	453	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	5bde5262dd0cc658
+380	466	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/main.xcl	3001dba4ae9d0f6
+282	477	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	2ccb812424ce660
+415	503	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	af769211586a4213
+406	514	7375874770000000	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	8a7a83984520b045
+474	524	7375874770748574	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/queue/queue.pbi	a8812f718a89279
+398	604	7375874771693140	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/esp_multiple_connection_project/ble/app/ble_app.pbi	8c4863641fb57458
+433	657	7375874772235261	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/hardware_init.pbi	dd05c669bdc09fd1
+446	662	7375874772245294	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/system_stm32g0xx.pbi	52881558c7100dd8
+437	666	7375874772265243	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_it.pbi	65677b81d30976c6
+424	677	7375874772425548	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	e87f9cae0bf0297f
+521	724	7375874772898697	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	ee39542729c8ac4a
+484	735	7375874773015941	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	58e7a66754fe4e9b
+511	743	7375874773085865	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	33b2fb1191decad
+526	760	7375874773253680	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	7ad8d8d8a5096d9b
+459	800	7375874773663733	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/hardware/stm32g0xx_hal_msp.pbi	4d782198f680dcf6
+802	824	7375874773896576	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	fd2bea3c9b29db6f
+826	849	7375874774143552	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	fad5ecc75bbd3e81
+664	871	7375874774363963	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	61a862cd86d71f74
+659	877	7375874774393862	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	22d8c74e89d90f25
+668	899	7375874774639236	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	e9c452a61927a260
+679	901	7375874774669160	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	cd470c3b2ab7e9f6
+607	958	7375874775236473	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	215c4b5b9c6c13f9
+726	962	7375874775281363	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	a2edf97270f7afe5
+763	966	7375874775323822	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	6a62ba776eb55d57
+745	977	7375874775428704	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	343bc05024a9297
+852	1060	7375874776262513	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/main.pbi	47c81b33c4ee4012
+738	1070	7375874776357431	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/third_party/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	9579c5e41933c874
+873	1073	7375874776367399	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part0.pbi	9ab302f34fbebf7d
+880	1140	7375874777074501	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part1.pbi	c5ddb1ab962821f3
+1061	1172	7375874777394011	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part4.pbi	51913af61982f732
+960	1203	7375874777699039	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part2.pbi	206c25745aedbcfc
+1071	1306	7375874778730043	C:/Users/yayla/Desktop/New folder (2)/EWARM/BLE_Driver/BrowseInfo/BLE_Driver_part3.pbi	99c651f755b0e542
