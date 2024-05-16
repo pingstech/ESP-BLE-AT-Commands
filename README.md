@@ -168,5 +168,3 @@ static void ble_received_data_fp(void * ble_obj, void * reference_obj, const uns
 
 #### ❗Not:
 &nbsp; &ensp; BLE yayınının yapılmasını sağlayan "state machine" yapısında "AT+RESTORE" komutu gönderilmemesinin sebebi bu projenin TCP Driver ve TCP Server uygulamaları ile birleştirilecek olmasıdır. Bundan dolayı bu projede bu komutun gönderilmesine yer verilmektense, komutun istenildiği biçimde gönderilmemesi durumunda "Reset" başlığı altında yer verilen callback fonksiyonu çalışacaktır!
-
-İlgili GitHub reposunu inceleyerek daha fazla bilgi sahibi olabilirsiniz. 
