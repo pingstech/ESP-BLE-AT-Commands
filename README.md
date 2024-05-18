@@ -20,10 +20,10 @@ AT+BLEINIT=2
 ---
 - #### 2️⃣AT+BLEADVDATAEX
 &nbsp; &ensp;BLE’nin *<span style="color:orange">görünürlük ve parametre ayarlarının</span>* yapılabilmesi için ESP32’ye gönderilmesi gereken komuttur.
-	* *<span style="color:green">Device Name:</span>* Cihaza verilecek isim
-	* *<span style="color:green">Universal Unique Identifier:</span>* cihazın benzersiz bir şekilde tanımlanmasını sağlayan 128-bitlik evrensel bir kimlik numarasıdır. 
-	* *<span style="color:green">Manufacturer Data:</span>* Üretici verisi (opsiyoneldir), 16'lık formatta.
-	* *<span style="color:green">TX_Power_Option:</span>* TX güç seviyesinin eklenip eklenmeyeceğini belirtir. 1: Eklenir, 0: Eklenmez.
+	 *<span style="color:green">Device Name:</span>* Cihaza verilecek isim
+	 *<span style="color:green">Universal Unique Identifier:</span>* cihazın benzersiz bir şekilde tanımlanmasını sağlayan 128-bitlik evrensel bir kimlik numarasıdır. 
+	 *<span style="color:green">Manufacturer Data:</span>* Üretici verisi (opsiyoneldir), 16'lık formatta.
+	 *<span style="color:green">TX_Power_Option:</span>* TX güç seviyesinin eklenip eklenmeyeceğini belirtir. 1: Eklenir, 0: Eklenmez.
 
 ```c
 AT+BLEADVDATAEX="Device_Name","Universal_Unique_Identifier","Manufacturer_Data",TX_Power_Option
